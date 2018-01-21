@@ -1,0 +1,32 @@
+{
+  "name": "react-google-docs-viewer",
+  "version": "1.0.0",
+  "description": "Google Docs Viewer wrapper for ReactJS",
+  "main": "build/index.js",
+  "repository": "https://github.com/theel0ja/react-google-docs-viewer.git",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^15.5.4"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "Elias Ojala",
+    "email": "elias@eliasojala.me"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1"
+  }
+}
