@@ -1,6 +1,6 @@
 {
   "name": "react-google-docs-viewer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google Docs Viewer wrapper for ReactJS",
   "main": "build/index.js",
   "repository": "https://github.com/theel0ja/react-google-docs-viewer.git",
